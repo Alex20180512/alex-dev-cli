@@ -1,10 +1,10 @@
-# Alex 的私人专用命令行工具
+ # Alex 的私人专用命令行工具
 
 ## 安装
 ```shell
 npm install alex-dev-cli -g
 ```
-
+fasdf 
 
 ## 使用
 
